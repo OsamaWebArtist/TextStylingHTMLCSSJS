@@ -1,0 +1,89 @@
+body{
+    background-image: url(./89781.jpg);
+background-size: cover;
+}
+
+.modifyP{
+    width: 500px;
+    margin: 10px auto;
+    background-color: #f1f1f1;
+    padding: 10px 10px 1px 10px;
+    border-radius: 5px;
+}
+.sectionOfword{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.selectfullFont{
+    padding: 4px;
+    border: none;
+    margin: 1px;
+    font-family: "open sans";
+}
+.selectfullFont:focus{
+    outline: none;
+    border: none;
+    
+    }
+.BoldButton{
+background-color: white;
+border: none;
+padding: 6px 10px;
+margin: 1px;
+}
+.BoldButton:hover{
+    cursor: pointer;
+    background-color: #dad8d8;
+}
+.upandDownSize{
+    display: flex;
+}
+.downSize{
+    background-color: white;
+    border: none;
+    padding: 6px 10px;
+    margin: 1px;
+
+}
+.downSize:hover{
+    cursor: pointer;
+    background-color: #dad8d8;
+}
+.Sizenum{
+    background-color: white;
+    border: none;
+    padding: 2px 10px;
+    font-family: "open sans";
+    margin: 1px;
+}
+.upSize{
+    background-color: white;
+    border: none;
+    padding: 6px 10px;
+    margin: 1px;
+}
+.upSize:hover{
+    cursor: pointer;
+    background-color: #dad8d8;
+}
+.InvertColor{
+    background-color: white;
+    border: none;
+    padding: 6px 10px;
+    margin: 1px;
+    font-family: "open sans";
+}
+.InvertColor:hover{
+    cursor: pointer;
+    background-color: #dad8d8;
+}
+.theModifyP{
+    background-color: white;
+    padding: 10px;
+    line-height: 1.6;
+    font-family: "open sans";
+    font-size: 16px;
+}
